@@ -42,5 +42,4 @@ cupcake/keymaps/defaultを複製し、任意の名前を付けます。
 
     make cupcake:フォルダ名:avrdude
 
-    
 QMKの書き込み関する詳しい内容は、[Helixのファームウェアガイド](https://github.com/MakotoKurauchi/helix/blob/master/Doc/firmware_jp.md)が参考になります。
