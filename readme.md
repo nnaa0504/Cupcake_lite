@@ -1,4 +1,4 @@
-# cupcake lite
+# CupCake lite
 
 
 ## ファームウェアの書き込み
