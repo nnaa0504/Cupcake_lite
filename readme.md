@@ -5,7 +5,7 @@
 
 ファームウェアはQMKを使用して作成しています。
 
-[トップ](https://github.com/nnaa0504/cupcake_lite) から複製のZIPファイルダウンロードを行います。
+[トップ](https://github.com/nnaa0504/cupcake_liteV1) から複製のZIPファイルダウンロードを行います。
 
 ![img](https://imgur.com/ZONXZ9T.jpg)
 
