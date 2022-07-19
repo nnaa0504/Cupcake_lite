@@ -1,4 +1,4 @@
-# cupcakelite
+# cupcake
 
 A short description of the keyboard/project
 
